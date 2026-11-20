@@ -45,6 +45,3 @@
 
 🟢 Regularly adding new tasks and projects
 
----
-
-*This repository is a part of my journey to becoming a Python Backend Developer.*
